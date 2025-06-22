@@ -10,7 +10,6 @@
 I'm a passionate **Full-Stack Developer** specializing in the **MERN Stack**, currently pursuing my B.E. in Computer Science Engineering. I love building scalable web applications that solve real-world problems and deliver exceptional user experiences.
 
 - 🔭 I'm currently working on **advanced MERN stack projects**
-- 🌱 I'm learning **TypeScript**, **Next.js**, and **cloud technologies**
 - 👯 I'm looking to collaborate on **open-source projects**
 - 💬 Ask me about **React, Node.js, MongoDB, or web development**
 - 📫 How to reach me: **kachhelachiragsinh@gmail.com**
